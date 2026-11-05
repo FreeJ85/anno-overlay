@@ -29,7 +29,7 @@ A small transparent overlay in the top-right corner of the screen. Move the came
 
 ### Features
 
-- **Goods** — Need · Raw Material · Intermediate Product · Construction Material, switched with ◀ ▶. Red = short, green = surplus, grey = even.
+- **Goods** — Need · Agricultural Good · Raw Material · Intermediate Product · Construction Material, switched with ◀ ▶. Red = short, green = surplus, grey = even.
 - **Short only** — ▽ hides everything that isn't running out.
 - **Trade Routes** — ships at this island with their cargo, goods on their way here, goods picked up here.
 - **Game numbers** — the balance comes from the game's own statistics (`/pipe` or the statistics screen). Before that arrives, it is estimated from stock changes, shown as `≈`.
@@ -47,7 +47,7 @@ The overlay has two parts:
 
 ### Quick start
 
-1. Install the mod: subscribe on mod.io, or unzip it into `Documents\Anno 117 - Pax Romana\mods`.
+1. Install the mod: download it from mod.io or Releases and unzip it into `Documents\Anno 117 - Pax Romana\mods`. Anno 117 has no mod.io browser in the game, so subscribing alone does not install it.
 2. Download `AnnoOverlay.exe` and put it in any folder.
 3. Run it. It stays in the system tray. If Windows says "Windows protected your PC", click **More info → Run anyway** (the program isn't code-signed).
 4. Start the game with the mod enabled, in **Windowed** or **Borderless window** mode.
@@ -90,7 +90,7 @@ Ein kleines, durchsichtiges Overlay oben rechts. Sobald die Kamera auf einer dei
 
 ### Schnellstart
 
-1. Mod installieren: auf mod.io abonnieren oder nach `Dokumente\Anno 117 - Pax Romana\mods` entpacken.
+1. Mod installieren: von mod.io oder Releases herunterladen und nach `Dokumente\Anno 117 - Pax Romana\mods` entpacken. Anno 117 hat keinen mod.io-Browser im Spiel, ein Abo allein installiert sie nicht.
 2. `AnnoOverlay.exe` herunterladen, Ordner egal.
 3. Starten. Es bleibt im Infobereich. Bei „Der Computer wurde durch Windows geschützt“ auf **Weitere Informationen → Trotzdem ausführen** klicken (nicht signiert).
 4. Spiel mit aktivierter Mod im Modus **Fenster** oder **Rahmenloses Fenster** starten.
@@ -111,7 +111,7 @@ Ein kleines, durchsichtiges Overlay oben rechts. Sobald die Kamera auf einer dei
 
 ### 기능
 
-- **물품** — 요구 · 원자재 · 중간재 · 건축 자재를 ◀ ▶ 로 바꿈. 빨강 = 부족, 초록 = 남음, 회색 = 그대로.
+- **물품** — 요구 · 농산물 · 원자재 · 중간재 · 건축 자재를 ◀ ▶ 로 바꿈. 빨강 = 부족, 초록 = 남음, 회색 = 그대로.
 - **부족만 보기** — ▽ 를 누르면 줄어드는 것만.
 - **무역로** — 이 섬에 있는 배와 짐, 이 섬으로 오는 중인 물품, 여기서 실어 가는 물품.
 - **게임 숫자 그대로** — 수지는 게임 통계(`/pipe` 또는 통계창)에서 옵니다. 그 전에는 재고 변화로 계산한 근사치가 `≈` 와 함께 나옵니다.
@@ -127,7 +127,7 @@ Ein kleines, durchsichtiges Overlay oben rechts. Sobald die Kamera auf einer dei
 
 ### 사용법
 
-1. 모드 설치: mod.io 구독, 또는 `문서\Anno 117 - Pax Romana\mods` 에 압축 풀기.
+1. 모드 설치: mod.io 또는 Releases에서 받아 `문서\Anno 117 - Pax Romana\mods` 에 압축 풀기. Anno 117은 게임 안에 mod.io가 없어서 구독만으로는 설치되지 않습니다.
 2. `AnnoOverlay.exe` 받기. 아무 폴더에 둬도 됩니다.
 3. 실행하면 트레이에 머뭅니다. "Windows의 PC 보호" 가 뜨면 **추가 정보 → 실행** (코드 서명이 없어서).
 4. 모드를 켜고 **창 모드** 또는 **테두리 없는 창** 으로 게임 시작.
